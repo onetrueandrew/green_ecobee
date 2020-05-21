@@ -1,0 +1,5 @@
+# ADD KNOWN MACS BETWEEN aa AND zz LINES
+# USE FULL MAC OR LAST TWO OCTETS
+aa:aa:aa:aa:aa:aa
+
+zz:zz:zz:zz:zz:zz
