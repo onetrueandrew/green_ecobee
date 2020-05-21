@@ -7,4 +7,5 @@ Edit the 'known_macs' file to list the MACs of phones that are connected to home
 Also update the ifttt maker "key", and router info such as ip, url, and auth.
 
 Works by sending webhook request to IFTTT and connected ecobee account, or any other connected thermostat. Changes the ecobee comfort settings to heat or cool less if no one is home. Run on cron every 2 minutes during waking hours with:
+
 */2 7-21 * * * /usr/bin/python3 /path/to/green_ecobee.py
